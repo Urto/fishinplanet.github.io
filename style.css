@@ -1,0 +1,32 @@
+/* Стили кнопки */
+.iksweb {
+    display: inline-block;
+    cursor: pointer;
+    font-size: 15px;
+    text-decoration: none;
+    padding: 10px 18px;
+    color: #000000;
+    background: #03ffe6;
+    border-radius: 50px;
+    border: 2px solid #f70000;
+}
+
+.iksweb:hover {
+    background: #00f20c;
+    color: #ffffff;
+    border: 2px solid #354251;
+    transition: all 1s ease;
+    text-align: center;
+
+}
+
+.text {
+    color: #00FA9A;
+
+}
+
+.endtext {
+    color: burlywood;
+    font-size:20px;
+
+}
